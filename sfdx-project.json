@@ -1,12 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "My First 2GP Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "Test-2GP",
+    "namespace": "Sannith2GPTest",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "My First 2GP Package": "0Ho5g000000k9lICAQ",
+        "My First 2GP Package@0.1.0-1": "04t5g000000gxQ8AAI"
     }
-  ],
-  "name": "Test-2GP",
-  "namespace": "Sannith2GPTest",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
 }
