@@ -6,7 +6,7 @@
     }
   ],
   "name": "Test-2GP",
-  "namespace": "",
+  "namespace": "Sannith2GPTest",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
