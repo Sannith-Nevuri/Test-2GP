@@ -9,6 +9,11 @@
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample_Object_for_2GP__c.is_2GP__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Sample_Object_for_2GP__c-Sample Object for 2GP Layout</layout>
     </layoutAssignments>
