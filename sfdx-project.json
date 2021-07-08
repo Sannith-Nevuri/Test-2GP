@@ -14,6 +14,7 @@
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "My First 2GP Package": "0Ho5g000000k9lICAQ",
-        "My First 2GP Package@0.1.0-1": "04t5g000000gxQ8AAI"
+        "My First 2GP Package@0.1.0-1": "04t5g000000gxQ8AAI",
+        "My First 2GP Package@0.1.0-2": "04t5g000000gxUaAAI"
     }
 }
