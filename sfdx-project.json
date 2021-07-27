@@ -11,14 +11,14 @@
         {
             "path": "child-app",
             "package": "Dependency Package",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
+            "versionName": "2.0",
+            "versionNumber": "2.0.0.NEXT",
             "default": false,
             "dependencies": [
                 {
-                  "package": "My First 2GP Package@0.1.0-2"
+                    "package": "My First 2GP Package@1.0.0-2"
                 }
-              ]
+            ]
         }
     ],
     "name": "Test-2GP",
@@ -30,6 +30,7 @@
         "My First 2GP Package@0.1.0-1": "04t5g000000gxQ8AAI",
         "My First 2GP Package@0.1.0-2": "04t5g000000gxUaAAI",
         "My First 2GP Package@1.0.0-2": "04t5g000000h1fRAAQ",
-        "Dependency Package": "0Ho5g000000k9ovCAA"
+        "Dependency Package": "0Ho5g000000k9ovCAA",
+        "Dependency Package@2.0.0-1": "04t5g000000h24hAAA"
     }
 }
