@@ -3,11 +3,13 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "My First 2GP Package",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "package": "Core Package",
+            "versionName": "1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "ancestorVersion": "ver 0.1"
         }
     ],
+
     "name": "Test-2GP",
     "namespace": "Sannith2GPTest",
     "sfdcLoginUrl": "https://login.salesforce.com",
