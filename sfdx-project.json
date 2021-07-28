@@ -4,15 +4,15 @@
             "path": "force-app",
             "default": true,
             "package": "My First 2GP Package",
-            "versionName": "1.0",
-            "versionNumber": "1.0.0.NEXT",
-            "ancestorVersion": "0.1.0.2"
+            "versionName": "1.1",
+            "versionNumber": "1.1.0.NEXT",
+            "ancestorVersion": "1.0.0.2"
         },
         {
             "path": "child-app",
             "package": "Dependency Package",
-            "versionName": "2.0",
-            "versionNumber": "2.0.0.NEXT",
+            "versionName": "2.1",
+            "versionNumber": "2.1.0.NEXT",
             "default": false,
             "dependencies": [
                 {
@@ -33,6 +33,7 @@
         "Dependency Package": "0Ho5g000000k9ovCAA",
         "Dependency Package@2.0.0-1": "04t5g000000h24hAAA",
         "My First 2GP Package@1.0.0-3": "04t5g000000h24rAAA",
-        "Dependency Package@2.0.0-2": "04t5g000000h2YAAAY"
+        "Dependency Package@2.0.0-2": "04t5g000000h2YAAAY",
+        "My First 2GP Package@1.1.0-1": "04t5g000000h2YFAAY"
     }
 }
