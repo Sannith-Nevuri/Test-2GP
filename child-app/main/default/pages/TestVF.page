@@ -1,3 +1,0 @@
-<apex:page controller="TestApex">
-   My Name is <b><apex:outputText value="{!Name}"></apex:outputText></b>
-</apex:page>
